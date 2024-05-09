@@ -1,4 +1,5 @@
-# ![Image alt text](hiImAhmad.svg)
+
+<img src="hiImAhmad.svg" width="100%">
 
 
 <div align="center">
@@ -29,13 +30,15 @@ Speaking of Pokemon 🤔, I have a fun little markdown add on that I'd love to s
 
 <br>
 
-<img align="center" height="260" src="https://pure-island-18739-38020024ff05.herokuapp.com/gif"/>
+<p align="center">
+<img height="260" src="https://pure-island-18739-38020024ff05.herokuapp.com/gif"/>
+<p>
 
 <br>
 
-<img align="right" height="120" src="https://img.pokemondb.net/sprites/black-white/anim/normal/reshiram.gif">
+<img align="right" height="140" src="https://img.pokemondb.net/sprites/black-white/anim/normal/reshiram.gif">
 
-<img align="left" height="120" hspace="10" src="https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif">
+<img align="left" height="140" hspace="10" src="https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif">
 
 
 <div align="center">
