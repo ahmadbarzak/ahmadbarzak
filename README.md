@@ -2,13 +2,6 @@
 <img src="hiImAhmad.svg" width="100%">
 
 
-<div align="center">
-
-[![Mail Badge](https://img.shields.io/badge/-ahmadmbarzak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ahmadmbarzak@gmail.com)](mailto:ahmadmbarzak@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-abarzak-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abarzak/)](https://www.linkedin.com/in/abarzak/)
-[![Linkedin Badge](https://img.shields.io/badge/-Ahmad_Barzak-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmad.barzak/)](https://www.facebook.com/ahmad.barzak/)
-</div>
-
 ## About Me
 
 I'm Ahmad Barzak, a recent Software Engineering graduate passionate about coding, exploring new technologies, and building cool projects.
@@ -59,6 +52,14 @@ Speaking of Pokemon 🤔, I have a fun little markdown add on that I'd love to s
 Flick me a message if you know how I created this fun little project 😅 (or if you're new to backend code/deployment!)
 
 ## Contact Me
+
+<div align="center">
+
+[![Mail Badge](https://img.shields.io/badge/-ahmadmbarzak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ahmadmbarzak@gmail.com)](mailto:ahmadmbarzak@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-abarzak-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abarzak/)](https://www.linkedin.com/in/abarzak/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ahmad_Barzak-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmad.barzak/)](https://www.facebook.com/ahmad.barzak/)
+</div>
+
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to connect! I'm happy to chat with you about anything provided I'm awake 😴
 
