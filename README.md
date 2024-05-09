@@ -51,6 +51,12 @@ Speaking of Pokemon 🤔, I have a fun little markdown add on that I'd love to s
 
 Flick me a message if you know how I created this fun little project 😅 (or if you're new to backend code/deployment!)
 
+## Current Contributions
+
+![YOUR_GITHUB_USERNAME's Contributions](https://github.pumbas.net/api/contributions/ahmadbarzak)
+credits to [pumbas600](https://github.com/pumbas600) for this amazing api!
+
+
 ## Contact Me
 
 <div align="center">
