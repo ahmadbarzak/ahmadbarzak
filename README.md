@@ -12,28 +12,28 @@ Outside of tech, I love:
 - Playing Squash
 - Going on Walks
 - Pokemon!
-
+<!-- 
 
 Speaking of Pokemon 🤔, I have a fun little markdown add on that I'd love to share with you! Hoping to see some amazing looking profiles in the future!!
 
-## Pokemon of the Day
+## Pokemon of the Day -->
 
 
 <!-- ![pokemon of the day!](https://pure-island-18739-38020024ff05.herokuapp.com/gif) -->
 
 <br>
 
+Here's My favourite pokemon of all time, Zekrom! 🐉⚡
+
 <p align="center">
 <img height="160" hspace="10" src="https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif">
 
-<img height="260" src="https://pure-island-18739-38020024ff05.herokuapp.com/gif"/>
+<!-- <img height="260" src="https://pure-island-18739-38020024ff05.herokuapp.com/gif"/> -->
 
-<img height="160" hspace="" src="https://img.pokemondb.net/sprites/black-white/anim/normal/reshiram.gif">
-<p>
 
 <br>
 
-
+<!-- 
 <div align="center">
 
 <h3>✨The Pokemon of the Day Is✨</h3>
@@ -49,12 +49,12 @@ Speaking of Pokemon 🤔, I have a fun little markdown add on that I'd love to s
 <br clear="right">
 <br clear="right">
 
-Flick me a message if you know how I created this fun little project 😅 (or if you're new to backend code/deployment!)
-
+Flick me a message if you know how I created this fun little project 😅 (or if you're new to backend code/deployment!) -->
+<!-- 
 ## Current Contributions
 
 ![ahmadbarzak's Contributions](https://github.pumbas.net/api/contributions/ahmadbarzak)
-credits to [pumbas600](https://github.com/pumbas600) for this amazing api!
+credits to [pumbas600](https://github.com/pumbas600) for this amazing api! -->
 
 
 ## Contact Me
