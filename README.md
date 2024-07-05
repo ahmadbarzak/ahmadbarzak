@@ -26,7 +26,7 @@ Speaking of Pokemon 🤔, I have a fun little markdown add on that I'd love to s
 Here's My favourite pokemon of all time, Zekrom! 🐉⚡
 
 <p align="center">
-<img height="160" hspace="10" src="https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif">
+<img height="180" hspace="10" src="https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif">
 
 <!-- <img height="260" src="https://pure-island-18739-38020024ff05.herokuapp.com/gif"/> -->
 
