@@ -50,5 +50,5 @@ Outside of tech, I love:
 <br clear="right">
 <br clear="right">
 
-Flick me a message if you know how I created this fun little project 😅 (or if you're new to backend code/deployment!)
+This pokemon gif is generated and hosted on my raspberry pi :), if you're new/interested flick me a message!
 
